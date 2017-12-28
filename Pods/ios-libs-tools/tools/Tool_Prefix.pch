@@ -1,0 +1,19 @@
+
+//
+//  Tool_Prefix.pch
+//  tools
+//
+//  Created by cuiyan on 17/1/9.
+//  Copyright © 2017年 cyan. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#ifndef Tool_Prefix_pch
+#define Tool_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Tool_Prefix_pch */

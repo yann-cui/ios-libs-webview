@@ -1,0 +1,21 @@
+PODS:
+  - ios-libs-tools (1.0.10)
+  - Masonry (1.1.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.14.1)
+
+DEPENDENCIES:
+  - ios-libs-tools
+  - Masonry
+  - MJExtension
+  - MJRefresh (~> 3.1.13)
+
+SPEC CHECKSUMS:
+  ios-libs-tools: 1a11a7d1290773d3e5fc9705043e0be278cab93d
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: 238e6a37e2dba12160ee3b79f6d2a2b26abcab42
+
+PODFILE CHECKSUM: a8ee22a28ca11221c51025be40b94fefecfa29d4
+
+COCOAPODS: 1.2.1
